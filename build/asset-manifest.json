@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba7034dd.css",
+    "main.js": "/static/js/main.859d706c.js",
+    "static/js/346.0f69c932.chunk.js": "/static/js/346.0f69c932.chunk.js",
+    "static/js/50.38c1017b.chunk.js": "/static/js/50.38c1017b.chunk.js",
+    "static/js/576.c4c27bb8.chunk.js": "/static/js/576.c4c27bb8.chunk.js",
+    "static/js/787.cfab6c76.chunk.js": "/static/js/787.cfab6c76.chunk.js",
+    "static/js/53.0de02050.chunk.js": "/static/js/53.0de02050.chunk.js",
+    "static/js/343.5dea9d76.chunk.js": "/static/js/343.5dea9d76.chunk.js",
+    "static/js/209.ecf837f0.chunk.js": "/static/js/209.ecf837f0.chunk.js",
+    "static/media/user-round.svg": "/static/media/user-round.27fe79b102ea6aad2f60e66cff82818d.svg",
+    "static/media/studkz_logo.png": "/static/media/studkz_logo.6897c321e36d35106c96.png",
+    "index.html": "/index.html",
+    "main.ba7034dd.css.map": "/static/css/main.ba7034dd.css.map",
+    "main.859d706c.js.map": "/static/js/main.859d706c.js.map",
+    "346.0f69c932.chunk.js.map": "/static/js/346.0f69c932.chunk.js.map",
+    "50.38c1017b.chunk.js.map": "/static/js/50.38c1017b.chunk.js.map",
+    "576.c4c27bb8.chunk.js.map": "/static/js/576.c4c27bb8.chunk.js.map",
+    "787.cfab6c76.chunk.js.map": "/static/js/787.cfab6c76.chunk.js.map",
+    "53.0de02050.chunk.js.map": "/static/js/53.0de02050.chunk.js.map",
+    "343.5dea9d76.chunk.js.map": "/static/js/343.5dea9d76.chunk.js.map",
+    "209.ecf837f0.chunk.js.map": "/static/js/209.ecf837f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba7034dd.css",
+    "static/js/main.859d706c.js"
+  ]
+}
